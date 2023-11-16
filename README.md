@@ -4,8 +4,9 @@ A simple project to manage a movies catalog using a hexagonal architecture model
 
 # Requirements
 This project requires:
-- java11
+- java8
 - maven 3.5.*
+- mysqlDB 5.6
 
 # Getting Started
 - change to this repository in your local host
